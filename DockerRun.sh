@@ -1,0 +1,1 @@
+docker run --name creality-print -p 7080:8080 -p 7180:8181 -v /opt/creality:/config creality-print
